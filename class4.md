@@ -1,110 +1,156 @@
-# 📚 Clase 3 - Conversacional e Interrogante
+# 📚 Clase 4 - Artículos y Presente Simple
 
-## 📋 Temario
+## 📋 Temario de la Clase
 
-- 💬 Conversacional
-- ❓ Interrogante
-- 👋 Presentación
-
----
-
-## 🎯 Introducción
-
-### Vocabulario Básico
-
-| # | 🇪🇸 Español | 🇬🇧 Inglés |
-|:--|:-----------|:-----------|
-| 1️⃣ | ¿Cómo se dice yo? | **I** |
-| 2️⃣ | ¿Cómo se dice yo soy? | **I'm** / **I am** |
-| 3️⃣ | Soy Alex | **I'm Alex** |
-| 4️⃣ | Hola | **Hi** - **Hello** |
-| 5️⃣ | Hola, soy Alex | **Hi, I'm Alex** |
-| 6️⃣ | Tú eres | **You are** |
-| 7️⃣ | Aquí | **Here** |
-| 8️⃣ | Tú estás aquí | **You are here** / **You're here** |
-| 9️⃣ | ¿Estás aquí? | **Are you here?** |
-| 🔟 | Cómo o cuánto | **How** |
-| 1️⃣1️⃣ | ¿Cómo estás? | **How are you?** |
-| 1️⃣2️⃣ | Hola, ¿cómo estás? | **Hi, how are you?** |
-
-> 💡 **Nota:** "How are you?" se usa para: tú, usted, ustedes
+1. 📰 Artículos
+2. ⏰ Presente simple
+3. 🔨 Construcción gramatical
+4. 📖 Vocabulario
 
 ---
 
-### Expresiones con "Do"
+## 📰 Artículos: El, La, Los, Las → THE
 
-| # | 🇪🇸 Español | 🇬🇧 Inglés |
-|:--|:-----------|:-----------|
-| 1️⃣3️⃣ | Hacer | **Do** |
-| 1️⃣4️⃣ | Haciendo | **Doing** |
+En inglés, **todos** los artículos (el, la, los, las) se traducen como **THE**
 
----
-
-### 🗣️ "How you doing?"
-
-> **Significado:** Se usa para preguntar:
-> - ¿Cómo va el día?
-> - ¿Qué cuentas?
-> - ¿Cómo te va?
-
----
-
-### 💬 Respuestas para "How you doing?"
+### Ejemplos
 
 | 🇪🇸 Español | 🇬🇧 Inglés |
 |:-----------|:-----------|
-| Muy bien, gracias | **I'm great, thank you** |
-| Nada mal | **Not bad** |
+| Las estrellas | **The stars** |
+| Los gatos | **The cats** |
+| La bola | **The ball** |
+| El sol | **The sun** |
 
 ---
 
-### 🤝 Otras Expresiones
+## 🆕 Vocabulario Nuevo
 
-| # | 🇪🇸 Español | 🇬🇧 Inglés |
-|:--|:-----------|:-----------|
-| 1️⃣8️⃣ | Gusto en conocerte | **Nice to meet you** |
+| 🇪🇸 Español | 🇬🇧 Inglés | 📝 Notas |
+|:-----------|:-----------|:---------|
+| Tiempo | **The time** | |
+| Película | **Film** (formal) / **Movie** (informal) | **The movie** |
+| Me gusta | **I like** | |
+| Ir | **Go** | |
+| Con | **With** | |
 
 ---
 
-## 💬 Ejemplo Conversacional 1
+## 💡 Regla: I LIKE
+
+### Con Acción (verbo) → Lleva **TO**
+
+Cuando "me gusta" va seguido de una **acción** (verbo), se usa **TO**
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Me gusta comer | **I like TO eat** ✅ |
+| Me gusta caminar | **I like TO walk** ✅ |
+| Me gusta cocinar | **I like TO cook** ✅ |
+| Me gusta dormir | **I like TO sleep** ✅ |
+
+> 💡 **Tiene auxiliar (TO) porque tiene acción**
+
+---
+
+### Sin Acción (sustantivo) → **NO** lleva TO
+
+Cuando "me gusta" va seguido de un **sustantivo** (cosa), **NO** se usa TO
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Me gusta la película | **I like the movie** ✅ |
+
+> 💡 **No tiene auxiliar porque no tiene acción**
+
+---
+
+## 📝 Traducciones con WITH (con)
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Me gusta comer contigo | **I like to eat with you** |
+| Me gusta cocinar con mi hermano | **I like to cook with my brother** |
+| Me gusta caminar con mis padres | **I like to walk with my parents** |
+
+---
+
+## ❌ Hacer / No Hacer: DO / DON'T
+
+### Estructura
+
+| | Español | Inglés |
+|:---:|:--------|:-------|
+| ✅ | Hacer | **DO** |
+| ❌ | No hacer | **DON'T** |
+
+> 💡 **DON'T** = **DO NOT**
+> 
+> Básicamente el "no hacer" es: **yo no hago esto**
+
+---
+
+## 📝 Ejemplos: Afirmativo y Negativo
+
+### Ejemplo 1: Caminar
+
+| | Oración |
+|:---:|:--------|
+| 🇪🇸 | Yo camino |
+| 🇬🇧 | **I walk** |
+| | |
+| 🇪🇸 | Yo no camino |
+| 🇬🇧 | **I don't walk** |
+
+---
+
+### Ejemplo 2: Comer Pollo
+
+| | Oración |
+|:---:|:--------|
+| 🇪🇸 | Yo como pollo |
+| 🇬🇧 | **I eat chicken** |
+| | |
+| 🇪🇸 | Yo no como pollo |
+| 🇬🇧 | **I don't eat chicken** |
+
+---
+
+### Ejemplo 3: Cocinar con mi Hermana
+
+| | Oración |
+|:---:|:--------|
+| 🇪🇸 | Yo cocino el pollo con mi hermana |
+| 🇬🇧 | **I cook the chicken with my sister** |
+| | |
+| 🇪🇸 | Yo no cocino el pollo con mi hermana |
+| 🇬🇧 | **I don't cook the chicken with my sister** |
+
+---
+
+### Ejemplo 4: Bailar con María
+
+| | Oración |
+|:---:|:--------|
+| 🇪🇸 | Me gusta bailar con María |
+| 🇬🇧 | **I like to dance with Maria** |
+| | |
+| 🇪🇸 | No me gusta bailar con María |
+| 🇬🇧 | **I don't like to dance with Maria** |
+
+---
+
+## 📌 Resumen Rápido
 ```
-👤 (Otro)  → Hi, I'm Miguel
-🙋 (Yo)    → Hello, I'm Luciano
-👤 (Otro)  → How are you?
-🙋 (Yo)    → I'm great, thank you. How are you?
-👤 (Otro)  → Not bad
-```
+Artículos:
+el/la/los/las → THE
 
----
+Me gusta + verbo → I like TO + verbo
+Me gusta + cosa  → I like + cosa
 
-## 👋 Saludo y Despedida
-
-### ☀️ Durante el Día
-
-| 🇪🇸 Español | 🇬🇧 Inglés | ⏰ Horario |
-|:-----------|:-----------|:----------|
-| Buenos días | **Good morning** | Hasta las 13hs |
-| Buenas tardes | **Good afternoon** | Hasta las 17hs |
-| Buenas tardes/noches | **Good evening** | Hasta las 22hs |
-
----
-
-### 🌙 Despedida Nocturna
-
-| 🇪🇸 Español | 🇬🇧 Inglés | ⏰ Horario |
-|:-----------|:-----------|:----------|
-| Buenas noches | **Good night** | Tarde (despedida) |
-
-> ⚠️ **Importante:** "Good night" se usa solo para **despedirse**, no para saludar
-
----
-
-## 📝 Resumen de Saludos
-```
-🌅 Mañana (hasta 13hs)    → Good morning
-☀️  Tarde (hasta 17hs)     → Good afternoon  
-🌆 Tarde/Noche (hasta 22hs)→ Good evening
-🌙 Despedida nocturna      → Good night
+Negación:
+I walk      → I don't walk
+I like      → I don't like
 ```
 
 ---
