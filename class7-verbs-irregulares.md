@@ -1,188 +1,146 @@
-# 📚 Clase 6 - Números y Días de la Semana
+# 📖 Tabla de Verbos Irregulares en Inglés
 
-## 📋 Temario
+## 🔤 Lista Completa de Verbos
 
-1. 🔢 Números
-2. 📅 Días de la semana
-3. 🎂 Edades
-
----
-
-## 🔢 Números del 1 al 10
-
-| # | 🇬🇧 Inglés | 🇪🇸 Español |
-|:--|:-----------|:-----------|
-| 1 | **One** | Uno |
-| 2 | **Two** | Dos |
-| 3 | **Three** | Tres |
-| 4 | **Four** | Cuatro |
-| 5 | **Five** | Cinco |
-| 6 | **Six** | Seis |
-| 7 | **Seven** | Siete |
-| 8 | **Eight** | Ocho |
-| 9 | **Nine** | Nueve |
-| 10 | **Ten** | Diez |
-
----
-
-## 📞 Número de Teléfono
-
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| ¿Cómo es tu número de teléfono? | **What is your phone number?** |
-
-> 💡 **Importante:** Se dice **número por número**
-
----
-
-## 📅 Días de la Semana
-
-| 🇬🇧 Inglés | 🇪🇸 Español |
-|:-----------|:-----------|
-| **Sunday** | Domingo |
-| **Monday** | Lunes |
-| **Tuesday** | Martes |
-| **Wednesday** | Miércoles |
-| **Thursday** | Jueves |
-| **Friday** | Viernes |
-| **Saturday** | Sábado |
-
----
-
-### 📝 Ejemplo
-
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| Hoy es | **Today is** |
-| Hoy es martes | **Today is Tuesday** |
-
----
-
-## 🔢 Números del 1 al 100 y Más
-
-### Del 1 al 20
-
-| # | 🇬🇧 Inglés |
-|:--|:-----------|
-| 1 | **One** |
-| 2 | **Two** |
-| 3 | **Three** |
-| 4 | **Four** |
-| 5 | **Five** |
-| 6 | **Six** |
-| 7 | **Seven** |
-| 8 | **Eight** |
-| 9 | **Nine** |
-| 10 | **Ten** |
-| 11 | **Eleven** |
-| 12 | **Twelve** |
-| 13 | **Thirteen** |
-| 14 | **Fourteen** |
-| 15 | **Fifteen** |
-| 16 | **Sixteen** |
-| 17 | **Seventeen** |
-| 18 | **Eighteen** |
-| 19 | **Nineteen** |
-| 20 | **Twenty** |
-
----
-
-### Del 21 al 31
-
-| # | 🇬🇧 Inglés |
-|:--|:-----------|
-| 21 | **Twenty-one** |
-| 22 | **Twenty-two** |
-| 23 | **Twenty-three** |
-| 24 | **Twenty-four** |
-| 25 | **Twenty-five** |
-| 26 | **Twenty-six** |
-| 27 | **Twenty-seven** |
-| 28 | **Twenty-eight** |
-| 29 | **Twenty-nine** |
-| 30 | **Thirty** |
-| 31 | **Thirty-one** |
-
----
-
-### Decenas y Números Grandes
-
-| # | 🇬🇧 Inglés |
-|:--|:-----------|
-| 40 | **Forty** |
-| 50 | **Fifty** |
-| 60 | **Sixty** |
-| 70 | **Seventy** |
-| 80 | **Eighty** |
-| 90 | **Ninety** |
-| 100 | **A hundred** / **One hundred** |
-| 1,000 | **A thousand** / **One thousand** |
-| 1,000,000 | **A million** / **One million** |
-
----
-
-## 🎂 Preguntar y Decir la Edad
-
-### ❓ Pregunta
-
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| ¿Qué edad tienes? | **How old are you?** |
+| 🇬🇧 Infinitivo | ⏪ Pasado Simple | ✅ Participio Pasado | 🇪🇸 Castellano |
+|:--------------|:----------------|:-------------------|:---------------|
+| **arise**     | arose           | arisen | surgir |
+| **be**        | was / were | been | ser |
+| **beat** | beat | beaten | golpear |
+| **become** | became | become | convertirse |
+| **begin** | began | begun | comenzar |
+| **bet** | bet / betted | bet / betted | apostar |
+| **bite** | bit | bitten | morder |
+| **bleed** | bled | bled | sangrar |
+| **blow** | blew | blown | soplar |
+| **break** | broke | broken | romper |
+| **bring** | brought | brought | traer |
+| **build** | built | built | construir |
+| **buy** | bought | bought | comprar |
+| **catch** | caught | caught | atrapar |
+| **choose** | chose | chosen | elegir |
+| **come** | came | come | venir |
+| **cost** | cost | cost | costar |
+| **creep** | crept | crept | arrastrarse |
+| **cut** | cut | cut | cortar |
+| **deal** | dealt | dealt | dar, repartir |
+| **do** | did | done | hacer |
+| **draw** | drew | drawn | dibujar |
+| **dream** | dreamt / dreamed | dreamt / dreamed | soñar |
+| **drink** | drank | drunk | beber |
+| **drive** | drove | driven | conducir |
+| **eat** | ate | eaten | comer |
+| **fall** | fell | fallen | caer |
+| **feed** | fed | fed | alimentar |
+| **feel** | felt | felt | sentir |
+| **fight** | fought | fought | pelear |
+| **find** | found | found | encontrar |
+| **flee** | fled | fled | huir |
+| **fly** | flew | flown | volar |
+| **forget** | forgot | forgotten | olvidar |
+| **forgive** | forgave | forgiven | perdonar |
+| **forsake** | forsook | forsaken | abandonar |
+| **freeze** | froze | frozen | congelar |
+| **get** | got | got | tener, obtener |
+| **give** | gave | given | dar |
+| **go** | went | gone | ir |
+| **grind** | ground | ground | moler |
+| **grow** | grew | grown | crecer |
+| **hang** | hung | hung | colgar |
+| **have** | had | had | tener |
+| **hear** | heard | heard | oír |
+| **hide** | hid | hidden | esconderse |
+| **hit** | hit | hit | golpear |
+| **hold** | held | held | tener, mantener |
+| **hurt** | hurt | hurt | herir, doler |
+| **keep** | kept | kept | guardar |
+| **kneel** | knelt | knelt | arrodillarse |
+| **know** | knew | known | saber |
+| **lead** | led | led | encabezar |
+| **learn** | learnt / learned | learnt / learned | aprender |
+| **leave** | left | left | dejar |
+| **lend** | lent | lent | prestar |
+| **let** | let | let | dejar |
+| **lie** | lay | lain | yacer |
+| **lose** | lost | lost | perder |
+| **make** | made | made | hacer |
+| **mean** | meant | meant | significar |
+| **meet** | met | met | conocer, encontrar |
+| **pay** | paid | paid | pagar |
+| **put** | put | put | poner |
+| **quit** | quit / quitted | quit / quitted | abandonar |
+| **read** | read | read | leer |
+| **ride** | rode | ridden | montar, ir |
+| **ring** | rang | rung | llamar por teléfono |
+| **rise** | rose | risen | elevar |
+| **run** | ran | run | correr |
+| **say** | said | said | decir |
+| **see** | saw | seen | ver |
+| **sell** | sold | sold | vender |
+| **send** | sent | sent | enviar |
+| **set** | set | set | fijar |
+| **sew** | sewed | sewn / sewed | coser |
+| **shake** | shook | shaken | sacudir |
+| **shine** | shone | shone | brillar |
+| **shoot** | shot | shot | disparar |
+| **show** | showed | shown / showed | mostrar |
+| **shrink** | shrank / shrunk | shrunk | encoger |
+| **shut** | shut | shut | cerrar |
+| **sing** | sang | sung | cantar |
+| **sink** | sank | sunk | hundir |
+| **sit** | sat | sat | sentarse |
+| **sleep** | slept | slept | dormir |
+| **slide** | slid | slid | deslizar |
+| **sow** | sowed | sown / sowed | sembrar |
+| **speak** | spoke | spoken | hablar |
+| **spell** | spelt / spelled | spelt / spelled | deletrear |
+| **spend** | spent | spent | gastar |
+| **spill** | spilt / spilled | spilt / spilled | derramar |
+| **split** | split | split | partir |
+| **spoil** | spoilt / spoiled | spoilt / spoiled | estropear |
+| **spread** | spread | spread | extenderse |
+| **stand** | stood | stood | estar de pie |
+| **steal** | stole | stolen | robar |
+| **sting** | stung | stung | picar |
+| **stink** | stank / stunk | stunk | apestar |
+| **strike** | struck | struck | golpear |
+| **swear** | swore | sworn | jurar |
+| **sweep** | swept | swept | barrer |
+| **swim** | swam | swum | nadar |
+| **take** | took | taken | tomar |
+| **teach** | taught | taught | enseñar |
+| **tear** | tore | torn | romper |
+| **tell** | told | told | decir |
+| **think** | thought | thought | pensar |
+| **throw** | threw | thrown | lanzar |
+| **tread** | trode | trodden / trod | pisar |
+| **understand** | understood | understood | entender |
+| **wake** | woke | woken | despertarse |
+| **wear** | wore | worn | llevar puesto |
+| **weave** | wove | woven | tejer |
+| **weep** | wept | wept | llorar |
+| **win** | won | won | ganar |
+| **wring** | wrung | wrung | retorcer |
+| **write** | wrote | written | escribir |
 
 ---
 
-### 💬 Respuesta
+## 📌 Leyenda
 
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| Tengo 24 años | **I'm twenty four years** |
-
-> 💡 **Nota:** El "old" es demasiado formal, se puede omitir
-
----
-
-## 📝 Ejemplos de Edades
-
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| Ella tiene 39 años | **She is thirty nine years** |
-| Pepe tiene 28 años | **Pepe is twenty eight years** |
-| Yo tengo 40 años | **I'm forty years** |
-| Soy Martín y tengo 45 años de edad | **I'm Martin and I'm forty five years** |
+| Símbolo | Significado |
+|:--------|:-----------|
+| 🇬🇧 | Infinitivo (Forma base) |
+| ⏪ | Pasado Simple |
+| ✅ | Participio Pasado |
+| 🇪🇸 | Traducción al Español |
 
 ---
 
-## 🏠 Tarea
+## 💡 Tip de Estudio
 
-### 📝 Oraciones a Traducir
-
-| 🇪🇸 Español | 🇬🇧 Inglés |
-|:-----------|:-----------|
-| Soy Luciano y tengo 24 años de edad | **I'm Luciano and I'm twenty four years** |
-| Ella es mi mamá y tiene 45 años de edad | **She's my mom and she's forty five years** |
-| Él tiene 72 años de edad | **He's seventy two years** |
-| Alejandro es mi hermano y tiene 24 años de edad | **Alejandro is my brother and he's twenty four years** |
-| Fernanda es mi hermana y tiene 31 años de edad | **Fernanda is my sister and she's thirty one years** |
-| Marco es mi amigo y tiene 16 años de edad | **Marco is my friend and he's sixteen years** |
-
----
-
-## 📌 Resumen Rápido
-```
-Días de la semana:
-Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
-
-Preguntar edad:
-How old are you?
-
-Responder edad:
-I'm [number] years
-She's [number] years
-He's [number] years
-
-Teléfono:
-What is your phone number?
-(Se dice número por número)
-```
+Los verbos marcados con **/** tienen dos formas aceptadas, ambas son correctas:
+- **learn** → learnt / learned
+- **dream** → dreamt / dreamed
+- **spell** → spelt / spelled
 
 ---
