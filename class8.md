@@ -1,171 +1,271 @@
-## Pasado simple
+# 📚 Clase 8 - Pasado Simple
 
+## 📋 Temario
 
-Yo he caminado por esta calle
+1. ⏰ Pasado Simple
+2. 📅 Expresiones de Tiempo
+3. 📖 Verbos Regulares e Irregulares
+4. ❌ Negación en Pasado
+5. ❓ Preguntas en Pasado
 
-este es el pasado simple
-Yo camine por esta calle
+---
 
-en pasado tenemos elementos que nos ayudan a señalar
-last => las night => anoche=>la noche pasada
+## ⏰ ¿Qué es el Pasado Simple?
 
-el [dia] pasado
+### Diferencia con el Pasado Participio
 
-las friday => el viernes pasado 
+| 🇪🇸 Español | Tipo | 🇬🇧 Inglés |
+|:-----------|:-----|:-----------|
+| Yo **he caminado** por esta calle | Pasado Participio | ❌ |
+| Yo **caminé** por esta calle | **Pasado Simple** | ✅ |
 
-la semana pasada
+> 💡 **El Pasado Simple** se usa para acciones completadas en el pasado
 
-last week
+---
 
---presente simple
-yo leo mi libro
-i read my book
---presente continuo
-yo lei mi libro
-i readeing my book
+## 📅 Expresiones de Tiempo en Pasado
 
-para pasar al pasado simple
+### LAST (Pasado/a)
 
-verbos regulares terminan en ed
-trabajar => work => worked
-cocinar => cook  => cooked
-bailar => dance => danced
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Anoche / La noche pasada | **Last night** |
+| El viernes pasado | **Last Friday** |
+| La semana pasada | **Last week** |
+| El mes pasado | **Last month** |
+| El año pasado | **Last year** |
 
---pasado simple
-i readed my book 
+---
 
-los verbos irregulres cambian segun el tiempo revisar la tabla de verbos
-3 verbos irregulares en pasado simple
+## 🔄 Comparación de Tiempos Verbales
 
-eat => ate
-buy => bought
-be => was/were
+### Ejemplo con "READ" (Leer)
 
-ella comio una pizza anoche
-she ate pizza last night
-ellos compraron un libro anoche
-they bought a book last night
+| Tiempo | 🇪🇸 Español | 🇬🇧 Inglés |
+|:-------|:-----------|:-----------|
+| **Presente Simple** | Yo leo mi libro | **I read my book** |
+| **Presente Continuo** | Yo estoy leyendo mi libro | **I am reading my book** |
+| **Pasado Simple** | Yo leí mi libro | **I read my book** |
 
-to be pasado simple
-i HE she i => was
-we you they => were
+> ⚠️ **Nota:** "Read" se escribe igual en presente y pasado, pero se pronuncia diferente
 
-ella era mi amiga
-she was my friend
+---
 
-nosotros fuimos amigos
-we were friends
+## 📖 Verbos Regulares (Terminan en -ED)
 
+Para formar el pasado simple de verbos regulares, se agrega **-ED** al final
 
-yo compre un helado 
-i bought an ice cream
+| 🇪🇸 Infinitivo | 🇬🇧 Presente | 🇬🇧 Pasado Simple |
+|:--------------|:-------------|:-----------------|
+| Trabajar | **Work** | **Worked** |
+| Cocinar | **Cook** | **Cooked** |
+| Bailar | **Dance** | **Danced** |
+| Estudiar | **Study** | **Studied** |
+| Llamar | **Call** | **Called** |
 
+---
 
-ellos compraron los libros con mi mama
-they bought the books with my mom
-presente simple
-marco cocina con mi hermana
-marco cooks with my sister
-presente continuo
-marco esta cocinando con mi hermana
-marco is cooking with my sister
-pasado simple
-marco cocino con mi hermana
-marco cooked with my 
+## 🔀 Verbos Irregulares (Cambian según la tabla)
 
-ahora pasado simple negativo y pregunta
+Los verbos irregulares **NO** terminan en -ED, sino que cambian completamente
 
-do => did
-did not: didn't
-**tener cuidado de no hacer doble negacion o doble pasado**
-**si lleva did o didn't no se conjuga el verbo por que ya se indica  que esta en pasado**
-Mi hermano no comio con mi mama
-my brother didn't eat with my mom
+### 3 Verbos Irregulares Importantes
 
-interrogativo
-did=> auxiliar para decir pasado
-did my brother eat with my mom??
+| 🇪🇸 Infinitivo | 🇬🇧 Presente | 🇬🇧 Pasado Simple |
+|:--------------|:-------------|:-----------------|
+| Comer | **Eat** | **Ate** |
+| Comprar | **Buy** | **Bought** |
+| Ser/Estar | **Be** | **Was / Were** |
 
+---
 
-wendy compro el libro
-wendy bought the book
+## 📝 Ejemplos de Pasado Simple
 
-wendy no compro el libro
-wendy didn't buy the boook
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Ella comió una pizza anoche | **She ate pizza last night** |
+| Ellos compraron un libro anoche | **They bought a book last night** |
+| Yo compré un helado | **I bought an ice cream** |
+| Ellos compraron los libros con mi mamá | **They bought the books with my mom** |
 
-wendy compro el libro?
-did wendy buy the book?
+---
 
-estudiaste anoche
-you studied last night
+## 👤 Verbo TO BE en Pasado Simple
 
-you didn't study last night
+### Conjugación
 
+| 👤 Pronombre | 🇬🇧 Pasado |
+|:------------|:-----------|
+| **I** | **Was** |
+| **You** | **Were** |
+| **He** | **Was** |
+| **She** | **Was** |
+| **It** | **Was** |
+| **We** | **Were** |
+| **You** | **Were** |
+| **They** | **Were** |
 
-leiste catorce libros la semana pasada
-**read is irregular**
-you read fourteen books the last week
+---
 
-no leiste catoirce libros la semana pasada
-you didn't reed fourteen books the last week
+### 📝 Ejemplos con TO BE
 
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Ella era mi amiga | **She was my friend** |
+| Nosotros fuimos amigos | **We were friends** |
 
-leiste cartorce libros la semana pasada?
-Did you read fourteen books the last week?
+---
 
-## Tarea
+## 🔄 Comparación: Presente Simple, Presente Continuo, Pasado Simple
 
-Presente 
-prestente cotinuo
-pasado simple positivo negativo y pregunta
+### Ejemplo con "Marco cocina"
 
-ella bailo con mi hermano
-she dances with my brother
-she is dancing with my brother
-she danced with my brother
-she didn't dance with my brother
-did she dance with my brother?
+| Tiempo | 🇪🇸 Español | 🇬🇧 Inglés |
+|:-------|:-----------|:-----------|
+| **Presente Simple** | Marco cocina con mi hermana | **Marco cooks with my sister** |
+| **Presente Continuo** | Marco está cocinando con mi hermana | **Marco is cooking with my sister** |
+| **Pasado Simple** | Marco cocinó con mi hermana | **Marco cooked with my sister** |
 
-ellos comieron conmigo
-they eat with me
-they are eating with me
-they ate with me
-they didn't eat with me
-did they eat with me?
+---
 
-nosotros compramos veinte libros
-we buy twenty books
-we are buying twenty books
-we bought twenty books
-we didn't buy twenty books
-did we buy twenty books
+## ❌ Pasado Simple Negativo
 
-tu llamaste a mi papa
-you call my dad
-you are calling my dad
-you called my dad
-you didn't call my dad
-did you call my dad?
+### Estructura: DID NOT / DIDN'T
 
+| Auxiliar | Contracción |
+|:---------|:------------|
+| **Did not** | **Didn't** |
 
+---
 
+### ⚠️ REGLA IMPORTANTE
 
+> **¡Tener cuidado de NO hacer doble negación o doble pasado!**
+> 
+> **Si lleva DID o DIDN'T, NO se conjuga el verbo porque ya se indica que está en pasado**
 
+---
 
+### 📝 Ejemplos de Negación
 
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Mi hermano no comió con mi mamá | **My brother didn't eat with my mom** |
+| Wendy no compró el libro | **Wendy didn't buy the book** |
+| Tú no estudiaste anoche | **You didn't study last night** |
+| No leíste catorce libros la semana pasada | **You didn't read fourteen books last week** |
 
+---
 
+## ❓ Pasado Simple Interrogativo
 
+### Estructura: DID + sujeto + verbo (base)?
 
+> **DID** es el auxiliar para indicar pasado en preguntas
 
+---
 
+### 📝 Ejemplos de Preguntas
 
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| ¿Mi hermano comió con mi mamá? | **Did my brother eat with my mom?** |
+| ¿Wendy compró el libro? | **Did Wendy buy the book?** |
+| ¿Estudiaste anoche? | **Did you study last night?** |
+| ¿Leíste catorce libros la semana pasada? | **Did you read fourteen books last week?** |
 
+> ⚠️ **Nota:** "Read" es irregular
 
+---
 
+## 🔄 Ejemplo Completo: Positivo, Negativo, Pregunta
 
+### Wendy y el libro
 
+| Forma | 🇪🇸 Español | 🇬🇧 Inglés |
+|:------|:-----------|:-----------|
+| ✅ **Positivo** | Wendy compró el libro | **Wendy bought the book** |
+| ❌ **Negativo** | Wendy no compró el libro | **Wendy didn't buy the book** |
+| ❓ **Pregunta** | ¿Wendy compró el libro? | **Did Wendy buy the book?** |
 
+---
 
+## 🏠 Tarea
 
+### Conjugar en: Presente Simple, Presente Continuo, Pasado Simple (Positivo, Negativo y Pregunta)
 
+---
+
+### 1️⃣ Ella bailó con mi hermano
+
+| Tiempo | 🇬🇧 Inglés |
+|:-------|:-----------|
+| **Presente Simple** | She dances with my brother |
+| **Presente Continuo** | She is dancing with my brother |
+| **Pasado Simple** ✅ | She danced with my brother |
+| **Pasado Simple** ❌ | She didn't dance with my brother |
+| **Pasado Simple** ❓ | Did she dance with my brother? |
+
+---
+
+### 2️⃣ Ellos comieron conmigo
+
+| Tiempo | 🇬🇧 Inglés |
+|:-------|:-----------|
+| **Presente Simple** | They eat with me |
+| **Presente Continuo** | They are eating with me |
+| **Pasado Simple** ✅ | They ate with me |
+| **Pasado Simple** ❌ | They didn't eat with me |
+| **Pasado Simple** ❓ | Did they eat with me? |
+
+---
+
+### 3️⃣ Nosotros compramos veinte libros
+
+| Tiempo | 🇬🇧 Inglés |
+|:-------|:-----------|
+| **Presente Simple** | We buy twenty books |
+| **Presente Continuo** | We are buying twenty books |
+| **Pasado Simple** ✅ | We bought twenty books |
+| **Pasado Simple** ❌ | We didn't buy twenty books |
+| **Pasado Simple** ❓ | Did we buy twenty books? |
+
+---
+
+### 4️⃣ Tú llamaste a mi papá
+
+| Tiempo | 🇬🇧 Inglés |
+|:-------|:-----------|
+| **Presente Simple** | You call my dad |
+| **Presente Continuo** | You are calling my dad |
+| **Pasado Simple** ✅ | You called my dad |
+| **Pasado Simple** ❌ | You didn't call my dad |
+| **Pasado Simple** ❓ | Did you call my dad? |
+
+---
+
+## 📌 Resumen Rápido
+```
+Verbos Regulares:
+Verbo + ED (work → worked, cook → cooked)
+
+Verbos Irregulares:
+Revisar tabla (eat → ate, buy → bought)
+
+Expresiones de Tiempo:
+Last night, last week, last Friday
+
+Negación:
+Didn't + verbo (base)
+She didn't eat (NO: didn't ate)
+
+Pregunta:
+Did + sujeto + verbo (base)?
+Did she eat? (NO: Did she ate?)
+
+⚠️ IMPORTANTE:
+Con DID/DIDN'T → verbo en forma BASE
+(NO conjugar el verbo)
+```
+
+---

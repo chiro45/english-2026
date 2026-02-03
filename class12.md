@@ -1,137 +1,282 @@
-## temario
-could couldnt
-may migth
+# 📚 Clase 12 - COULD, MAY y MIGHT
 
-yo puedo
-i can
-yo pude 
-i could
+## 📋 Temario
 
-yo podria
-i could
+1. ⏰ COULD (Pasado de CAN / Condicional)
+2. 🤔 MAY y MIGHT (Posibilidad)
+3. ❌ Formas Negativas
+4. 📖 Vocabulario Nuevo
 
-yo pude comer pizza
-i could eat pizza
+---
 
-yo podria comer pizza
-i could eat pizza
+## ⏰ COULD - Doble Significado
 
-para saber sie s pasado generalmente hay indicadores de pasado
+### 🔀 COULD tiene 2 usos:
 
-i could eat pizza yesterday
-                  last week
-                  last thursday
+| Uso | 🇪🇸 Significado | 📝 Contexto |
+|:----|:---------------|:-----------|
+| 1️⃣ | **Poder (Pasado)** | "Yo pude" - con indicadores de pasado |
+| 2️⃣ | **Podría (Condicional)** | "Yo podría" - posibilidad o hipótesis |
 
-es posible que...
-Es posible que coma pizza
-Yo podria comer pizza
-i may eat pizza
-i might eat pizza
+---
 
-may y might se usa para decir es posible
+### 📊 Conjugación de COULD
 
-could para decir "podria" y "poder en pasado"
+| 👤 Pronombre | 🇬🇧 COULD | 🇪🇸 Español (Pasado) | 🇪🇸 Español (Condicional) |
+|:------------|:----------|:--------------------|:-------------------------|
+| **I** | **I could** | Yo pude | Yo podría |
+| **You** | **You could** | Tú pudiste | Tú podrías |
+| **She** | **She could** | Ella pudo | Ella podría |
+| **He** | **He could** | Él pudo | Él podría |
+| **It** | **It could** | Eso pudo | Eso podría |
+| **We** | **We could** | Nosotros pudimos | Nosotros podríamos |
+| **You** | **You could** | Ustedes pudieron | Ustedes podrían |
+| **They** | **They could** | Ellos pudieron | Ellos podrían |
 
-yo puedo cocinar para ti
-i can cook four you
-i could cook for you last night
+> 💡 **Importante:** COULD **NO cambia** para ningún pronombre
 
-para todos los pronombres se ocupa **could**
+---
 
-**negativo could not o couldn't**
+## 🔍 ¿Cómo Diferenciar el Significado?
 
-i couldn't eat pizza
-she couldn't cook today
+### Con Indicadores de Tiempo Pasado
 
-be cause: por que
+Los **indicadores de pasado** nos ayudan a saber si es "pude" (pasado) o "podría" (condicional)
 
-there: ahi
+| 🇪🇸 Español | 🇬🇧 Inglés | 📅 Indicador |
+|:-----------|:-----------|:-------------|
+| Yo pude comer pizza **ayer** | **I could eat pizza yesterday** | Yesterday |
+| Yo pude comer pizza **la semana pasada** | **I could eat pizza last week** | Last week |
+| Yo pude comer pizza **el jueves pasado** | **I could eat pizza last Thursday** | Last Thursday |
 
-ella estaba aqui
-she was there
+---
 
-alex couldn't dance with you last night be cause he was not there
+### Sin Indicadores = Condicional
 
-alex no pudo bailar contigo anoche por que el no estaba ahi
+| 🇪🇸 Español | 🇬🇧 Inglés | 📝 Significado |
+|:-----------|:-----------|:--------------|
+| Yo podría comer pizza | **I could eat pizza** | Condicional (posibilidad) |
 
-Es posible que cocine, pero no es posible que baile
+---
 
-i may cook, but may not dance
+## 📝 Ejemplos con COULD
 
-may y might no tienen version corta
+### Presente vs Pasado
 
+| Tiempo | 🇪🇸 Español | 🇬🇧 Inglés |
+|:-------|:-----------|:-----------|
+| **Presente** | Yo puedo cocinar para ti | **I can cook for you** |
+| **Pasado** | Yo pude cocinar para ti anoche | **I could cook for you last night** |
 
-es posible que trabajen, pero no que duerman
+---
 
-they may work, but they may not sleep
+## 🤔 MAY y MIGHT (Posibilidad)
 
+### 📖 Significado
 
-nosotros pudimos comer pero tu no pudiste
+Ambos significan **"Es posible que..."** o **"Podría..."**
 
-we could eat but you couldn't
+---
 
+### 📊 Conjugación
 
-ustedes pudieron caminar con mi mama pero ellas no pudieron
+| 👤 Pronombre | 🇬🇧 MAY | 🇬🇧 MIGHT | 🇪🇸 Español |
+|:------------|:--------|:----------|:-----------|
+| **I** | **I may** | **I might** | Es posible que yo... / Yo podría... |
+| **You** | **You may** | **You might** | Es posible que tú... / Tú podrías... |
+| **She** | **She may** | **She might** | Es posible que ella... / Ella podría... |
+| **He** | **He may** | **He might** | Es posible que él... / Él podría... |
+| **It** | **It may** | **It might** | Es posible que eso... / Eso podría... |
+| **We** | **We may** | **We might** | Es posible que nosotros... / Podríamos... |
+| **You** | **You may** | **You might** | Es posible que ustedes... / Podrían... |
+| **They** | **They may** | **They might** | Es posible que ellos... / Podrían... |
 
-you could walk with my mom, but they couldn't
+> ⚠️ **Importante:** MAY y MIGHT **NO tienen versión corta**
 
-no pude ver el cielo
-i couldn't see the sky
+---
 
-no pude ver television
-i couldn't watch  TV
+## 📝 Ejemplos con MAY y MIGHT
 
-yo no podria ver el cielo
-i may not see the sky
-yo no podria ver television
-i may not watch  TV
+| 🇪🇸 Español | 🇬🇧 Inglés (MAY) | 🇬🇧 Inglés (MIGHT) |
+|:-----------|:----------------|:------------------|
+| Es posible que coma pizza | **I may eat pizza** | **I might eat pizza** |
+| Yo podría comer pizza | **I may eat pizza** | **I might eat pizza** |
 
+> 💡 **MAY y MIGHT son intercambiables** en la mayoría de los casos
 
+---
 
-i coulden't see the sky
-yo no pude ver el cielo
-yo no podria ver el cielo
+## 🔄 Diferencia: COULD vs MAY/MIGHT
 
-happpen: pasar/suceder/ocurrir
+| Verbo | 🇪🇸 Uso | 📝 Contexto |
+|:------|:--------|:-----------|
+| **COULD** | "Podría" / "Pude" | Habilidad o pasado |
+| **MAY / MIGHT** | "Es posible que..." | Posibilidad, probabilidad |
 
-it might happen
-eso pudria pasar
+---
 
-it may happen
-eso podria pasar
+## ❌ Formas Negativas
 
-it could happen
-eso pudo pasar
+### COULDN'T (Could Not)
 
-cualquier cosa
+| 👤 Forma Completa | 💬 Contracción | 🇪🇸 Español |
+|:-----------------|:--------------|:-----------|
+| **I could not** | **I couldn't** | Yo no pude / Yo no podría |
+| **You could not** | **You couldn't** | Tú no pudiste / Tú no podrías |
+| **She could not** | **She couldn't** | Ella no pudo / Ella no podría |
+| **He could not** | **He couldn't** | Él no pudo / Él no podría |
+| **It could not** | **It couldn't** | Eso no pudo / Eso no podría |
+| **We could not** | **We couldn't** | Nosotros no pudimos / No podríamos |
+| **You could not** | **You couldn't** | Ustedes no pudieron / No podrían |
+| **They could not** | **They couldn't** | Ellos no pudieron / No podrían |
 
-cualquier cosa podria paar
+---
 
-anything might happen
+### MAY NOT / MIGHT NOT
 
-anything may happen
+| 👤 Forma Negativa MAY | 👤 Forma Negativa MIGHT | 🇪🇸 Español |
+|:---------------------|:------------------------|:-----------|
+| **I may not** | **I might not** | Es posible que yo no... |
+| **You may not** | **You might not** | Es posible que tú no... |
+| **She may not** | **She might not** | Es posible que ella no... |
+| **He may not** | **He might not** | Es posible que él no... |
+| **It may not** | **It might not** | Es posible que eso no... |
+| **We may not** | **We might not** | Es posible que nosotros no... |
+| **You may not** | **You might not** | Es posible que ustedes no... |
+| **They may not** | **They might not** | Es posible que ellos no... |
 
-anything could happen
+> ⚠️ **NO existe "mayn't" o "mightn't"** como contracción
 
+---
 
+## 📖 Vocabulario Nuevo
 
+| 🇪🇸 Español | 🇬🇧 Inglés | 📝 Ejemplo |
+|:-----------|:-----------|:-----------|
+| Porque | **Because** | Alex couldn't dance because... |
+| Ahí / Allí | **There** | She was there |
+| Pasar / Suceder / Ocurrir | **Happen** | It might happen |
+| Cualquier cosa | **Anything** | Anything could happen |
 
-**tarea**
+---
 
-Yo pude trabajar contigo ayer
-I could work with you yesterday
+## 📝 Ejemplos Completos
 
-yo podria concinar el pollo pero tu no
-i could cook the chicken, but you couldn't
+### Con BECAUSE (Porque)
 
-mi amigo puede caminar pero no puede bailar
-my friend can dance but he can't dance
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Ella estaba ahí | **She was there** |
+| Alex no pudo bailar contigo anoche porque él no estaba ahí | **Alex couldn't dance with you last night because he was not there** |
 
-ustedes no pudieron dormir
-you couldn't sleep
+---
 
-ellas podrian caminar con mi hermana
-they may walk with my sister
+### Con BUT (Pero)
 
-es posible que yo coma contigo
-I may eat with you
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Es posible que cocine, pero no es posible que baile | **I may cook, but I may not dance** |
+| Es posible que trabajen, pero no que duerman | **They may work, but they may not sleep** |
+| Nosotros pudimos comer pero tú no pudiste | **We could eat, but you couldn't** |
+| Ustedes pudieron caminar con mi mamá pero ellas no pudieron | **You could walk with my mom, but they couldn't** |
+
+---
+
+### Más Ejemplos
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| No pude ver el cielo | **I couldn't see the sky** |
+| No pude ver televisión | **I couldn't watch TV** |
+| Yo no podría ver el cielo | **I may not see the sky** |
+| Yo no podría ver televisión | **I may not watch TV** |
+
+---
+
+## 🎯 Ejemplos con HAPPEN (Pasar/Suceder)
+
+### Con Diferentes Verbos Modales
+
+| 🇪🇸 Español | 🇬🇧 Inglés | 📝 Significado |
+|:-----------|:-----------|:--------------|
+| Eso podría pasar | **It might happen** | Posibilidad |
+| Eso podría pasar | **It may happen** | Posibilidad |
+| Eso pudo pasar | **It could happen** | Pasado/Posibilidad |
+
+---
+
+### Con ANYTHING (Cualquier cosa)
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Cualquier cosa podría pasar | **Anything might happen** |
+| Cualquier cosa podría pasar | **Anything may happen** |
+| Cualquier cosa pudo pasar | **Anything could happen** |
+
+---
+
+## 🏠 Tarea
+
+### 📝 Traducciones
+
+| 🇪🇸 Español | 🇬🇧 Inglés |
+|:-----------|:-----------|
+| Yo pude trabajar contigo ayer | **I could work with you yesterday** |
+| Yo podría cocinar el pollo pero tú no | **I could cook the chicken, but you couldn't** |
+| Mi amigo puede caminar pero no puede bailar | **My friend can walk but he can't dance** |
+| Ustedes no pudieron dormir | **You couldn't sleep** |
+| Ellas podrían caminar con mi hermana | **They may walk with my sister** |
+| Es posible que yo coma contigo | **I may eat with you** |
+
+---
+
+## 📌 Resumen Rápido
+```
+COULD - Doble significado:
+1. Pasado: "Yo pude" (con indicadores de tiempo)
+   I could eat pizza yesterday
+2. Condicional: "Yo podría" (sin indicadores)
+   I could eat pizza
+
+MAY / MIGHT:
+- Significado: "Es posible que..." / "Podría..."
+- Son intercambiables
+- NO tienen contracción
+
+Negativas:
+COULDN'T  → Could not  ✅
+MAY NOT   → No contracción ❌
+MIGHT NOT → No contracción ❌
+
+Vocabulario clave:
+Because  → Porque
+There    → Ahí/Allí
+Happen   → Pasar/Suceder
+Anything → Cualquier cosa
+
+Estructura:
+Sujeto + could/may/might + verbo (base)
+```
+
+---
+
+## 🎯 Práctica Extra
+
+### Identifica si es pasado o condicional:
+
+1. I could dance with you  => pasado condicional
+2. I could dance with you last night => pasado 
+3. She might come tomorrow => posibilidad
+4. They couldn't sleep yesterday => pasado
+
+<details>
+<summary>👁️ Ver respuestas</summary>
+
+1. **Condicional** (yo podría bailar contigo)
+2. **Pasado** (yo pude bailar contigo anoche)
+3. **Posibilidad** (es posible que ella venga mañana)
+4. **Pasado** (ellos no pudieron dormir ayer)
+
+</details>
+
+---
